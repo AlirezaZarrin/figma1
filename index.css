@@ -1,0 +1,118 @@
+html , body {
+    width: 100%;
+    height: 100%;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+
+
+.w-8{
+    width: 5.5%;
+}
+
+.w-19{
+    width: 19%;
+}
+
+.w-30{
+    width: 30%;
+}
+
+.w-35{
+    width: 35%;
+}
+
+.padding-bottom4px{
+    padding-bottom: 4px;
+}
+
+.h-18{
+    height: 18%;
+}
+
+.h-11{
+    height: 11%;
+}
+
+.h-40{
+    height: 30%;
+}
+
+.h-82{
+    height: 82%;
+}
+
+.bg-balck{
+    background-color: #262336;
+}
+
+.color-white{
+    color: white;
+}
+
+.color-borderBottom {
+    border-color: aliceblue;
+}
+
+.font-size-button{
+    font-size: 1.4rem;
+    border-radius: 8px;
+}
+
+.fontsize--1{
+    font-size: 1.1rem;
+}
+
+.fontsize--2{
+    font-size: 1.5rem;
+}
+
+.fontsize--3{
+    font-size: 2.6rem;
+}
+
+.outline-none{
+    outline: none;
+}
+
+
+
+.font-weight-bold{
+    font-weight:bolder
+}
+
+.border---top--left-right-none{
+    border-top: none;
+    border-left: none;
+    border-right:none ;
+}
+
+.button-color{
+    background-color: #2FD66F;
+    color: black;
+}
+
+.border-none{
+    border: none;
+}
+
+.bg-div{
+    background-color: #342F4E;
+}
+
+.border-radius5px{
+    border-radius: 5px;
+}
+
+.button--delete-color {
+    background-color: #DB143C;
+    color: white;
+}
+
+
